@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Anudeep 👋  
 
-<!--
-**anudeep081001/anudeep081001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML & Generative AI Engineer** focused on RAG pipelines, LangChain-based agents, and cloud deployments (AWS/Azure/GCP).  
+I deliver production-grade AI solutions that improve accuracy, reduce costs, and scale for enterprise systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages**: Python, Java  
+- **ML/AI**: PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenAI API  
+- **GenAI/NLP**: RAG, LangChain, Prompt Engineering, LLM Fine-tuning  
+- **Cloud & Deployment**: AWS, Azure, GCP, Docker, FastAPI, REST APIs  
+- **Data/Tools**: Pandas, NumPy, Spark, Power BI, Git/GitHub  
+
+---
+
+
+
+## 📫 Contact
+- 📧 Email: vxk99260@ucmo.edu  
+- 🔗 LinkedIn: [linkedin.com/in/anudeep-kata](https://www.linkedin.com/in/anudeep-kata) 
